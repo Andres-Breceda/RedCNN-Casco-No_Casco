@@ -1,10 +1,10 @@
 matplotlib
-numpy>
-opencv-python>
+numpy
+opencv-python
 pandas
 pymysql
 python-dotenv
-request
+requests
 scikit-learn
 seaborn
 sqlalchemy
@@ -12,5 +12,3 @@ sympy
 xgboost
 streamlit
 tensorflow
-opencv-python
-scikit-learn
